@@ -28,6 +28,7 @@ html {
 
 section {
     padding: 60px 0;
+    padding: 80px 0;
 }
 
 ul {
@@ -322,6 +323,7 @@ h5 {
 .students h5 {
     padding-top: 10px;
     color: #000;
+    padding: 10px;
 }
 
 .students p {
@@ -339,6 +341,7 @@ h5 {
 
 .students i {
     color: #3558cc;
+    color: #5e7de5;
 }
 
 /* SECTION CONTACT */
